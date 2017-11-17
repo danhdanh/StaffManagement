@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "552287974944",
+    "project_id": "firebase-staffmanagement"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552287974944:android:2942734e6260199c",
+        "android_client_info": {
+          "package_name": "com.example.danhnc.staffmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552287974944-f41dgogm0uo5eed2aflemgslsnk3435u.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "552287974944-lmbnl7rnfo97rbsilv215vjhrjgc4nhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danhnc.staffmanagement",
+            "certificate_hash": "5933d3e8cf665062dff3d256882f42d545489983"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyJo2MfUiWTidR6XjKWi1yWIkRZ47WEg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StaffManagement</string>
+    <string name="app_id">198589894020290</string>
+    <string name="fb_login_protocol_scheme">fb198589894020290</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
